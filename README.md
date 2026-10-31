@@ -107,3 +107,5 @@ Les visuels sont entièrement locaux : grilles de caractères converties en `<re
 - L’intégration d’une contrainte dans la légende n’est pas vérifiée (impossible sans interpréter le texte) : la contrainte est attachée à la case et ajoute un élément visuel.
 - `npm audit` signale des vulnérabilités modérées dans des dépendances de développement (chaîne ESLint) ; elles n’entrent pas dans le build.
 # plouf
+=======
+# copycomic
